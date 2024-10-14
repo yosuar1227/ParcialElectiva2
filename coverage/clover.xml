@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1728842152188" clover="3.2.0">
+  <project timestamp="1728842152188" name="All files">
+    <metrics statements="47" coveredstatements="44" conditionals="4" coveredconditionals="2" methods="11" coveredmethods="11" elements="62" coveredelements="57" complexity="0" loc="47" ncloc="47" packages="2" files="6" classes="6"/>
+    <package name="Application">
+      <metrics statements="30" coveredstatements="27" conditionals="2" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <file name="event.application.ts" path="C:\Users\dilan\OneDrive\Escritorio\DesarrolloWeb\parcial2Electiva\src\Application\event.application.ts">
+        <metrics statements="30" coveredstatements="27" conditionals="2" coveredconditionals="0" methods="6" coveredmethods="6"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="18" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="32" count="5" type="stmt"/>
+        <line num="33" count="5" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="52" count="2" type="stmt"/>
+        <line num="53" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Domain.Errors">
+      <metrics statements="17" coveredstatements="17" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5"/>
+      <file name="Error.Message.ts" path="C:\Users\dilan\OneDrive\Escritorio\DesarrolloWeb\parcial2Electiva\src\Domain\Errors\Error.Message.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+      <file name="InternalError.ts" path="C:\Users\dilan\OneDrive\Escritorio\DesarrolloWeb\parcial2Electiva\src\Domain\Errors\InternalError.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+      <file name="NotCreatedError.ts" path="C:\Users\dilan\OneDrive\Escritorio\DesarrolloWeb\parcial2Electiva\src\Domain\Errors\NotCreatedError.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+      </file>
+      <file name="NotFoundError.ts" path="C:\Users\dilan\OneDrive\Escritorio\DesarrolloWeb\parcial2Electiva\src\Domain\Errors\NotFoundError.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="8" type="stmt"/>
+      </file>
+      <file name="NotUpdatedError.ts" path="C:\Users\dilan\OneDrive\Escritorio\DesarrolloWeb\parcial2Electiva\src\Domain\Errors\NotUpdatedError.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
